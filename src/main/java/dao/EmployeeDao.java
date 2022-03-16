@@ -6,7 +6,7 @@ import models.News;
 import java.util.List;
 
 public interface EmployeeDao {
-    // create
+
     void add(Employee employee);
 
     // read
